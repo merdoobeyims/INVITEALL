@@ -1,4 +1,4 @@
-git+https://github.com/ITS-LEGENDBOT/Telethon
+git+https://github.com/LonamiWebs/Telethon
 python-dotenv
 asyncio
 TgCrypto
