@@ -3,7 +3,6 @@ import os
 import sys
 from datetime import datetime
 
-import telethon.utils
 from telethon import TelegramClient, events
 from telethon.errors import (
     ChannelInvalidError,
